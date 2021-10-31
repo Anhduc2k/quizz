@@ -1,0 +1,52 @@
+[
+  {
+    "question": " 1 + 1 = ?",
+    "answer": {
+      "a": "Đáp án A",
+      "b": "Đáp án B",
+      "c": "Đáp án C",
+      "d": "Đáp án D"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Câu hỏi 2",
+    "answer": {
+      "a": "Đáp án A",
+      "b": "Đáp án B",
+      "c": "Đáp án C",
+      "d": "Đáp án D"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Câu hỏi 3",
+    "answer": {
+      "a": "Đáp án A",
+      "b": "Đáp án B",
+      "c": "Đáp án C",
+      "d": "Đáp án D"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Câu hỏi 4",
+    "answer": {
+      "a": "Đáp án A",
+      "b": "Đáp án B",
+      "c": "Đáp án C",
+      "d": "Đáp án D"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Câu hỏi 5",
+    "answer": {
+      "a": "Đáp án A",
+      "b": "Đáp án B",
+      "c": "Đáp án C",
+      "d": "Đáp án D"
+    },
+    "correct": "c"
+  }
+]

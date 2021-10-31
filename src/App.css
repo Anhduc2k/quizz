@@ -1,0 +1,21 @@
+.anwser-box:hover {
+  border: 2px solid #0dcaf0 !important;
+}
+.anwser-box {
+  border: 2px solid #fff !important;
+}
+.anwser-box.correct {
+  border: 2px solid #37eb2c !important;
+}
+
+.anwser-box.incorrect {
+  border: 2px solid #ff002c !important;
+}
+
+.box-question-mini {
+  border: 2px solid #0000;
+}
+
+.box-question-mini.active {
+  border: 2px solid #0dcaf0;
+}
